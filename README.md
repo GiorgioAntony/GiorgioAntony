@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**GiorgioAntony/GiorgioAntony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Giorgio, an ICT highschool student currently living in Italy!
 
-Here are some ideas to get you started:
+I'm taking my career more seriously, and as such I'll be doing and updating here many projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+my school and internship experiences taught me how to:
+- Programming languages
+  - code in python (even OOP)
+  - C & C++ basics
+- Front end developement:
+  - HTML, CSS and JS
+  - Flutter
+- Backend:
+  - My SQL
+  - Supabase
+ 
+
