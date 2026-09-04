@@ -1,4 +1,4 @@
-## Hi there 👋
+## HELLO THERE 👋🥸
 
 I'm Giorgio, an ICT highschool student currently living in Italy!
 
